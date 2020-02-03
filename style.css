@@ -1,0 +1,21 @@
+img {
+    position: absolute;
+    width: 1912px;
+    height: 950px;
+    z-index: -1;
+}
+
+.container {
+    float: right;
+    position: relative;
+    z-index: 1;
+}
+.text {
+    width: 680px;
+    height: 600x;
+    text-align: right;
+    font-weight: bold;
+    position: relative;
+    background-color: white;
+    z-index: 2;
+}
